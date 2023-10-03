@@ -27,6 +27,8 @@ export const Signup = () => {
   const userInfo = {
     username: username,
     password: password,
+
+    
   };
 
   
