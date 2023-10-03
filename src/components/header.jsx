@@ -111,7 +111,7 @@ export function Header() {
     </div>
     
     <button class="create-button bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
-      <a href="http://localhost:3000/tweet">Create</a>
+      <a href="/tweet">Create</a>
     </button>
   </div>
 </header>
